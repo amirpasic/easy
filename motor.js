@@ -1,4 +1,4 @@
-const pageStatus = 0;
+const pageStatus = 1;
 
 if (pageStatus === 1) {
   const overlay = document.querySelector('div'); // Finde das Overlay-Element
